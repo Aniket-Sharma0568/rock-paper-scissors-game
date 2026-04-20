@@ -62,19 +62,6 @@ The main objectives of this project are:
 - To build an interactive web-based application  
 - To improve UI/UX design skills  
 
----
-
-## 📸 Screenshots
-
-(Add screenshots of your game here after uploading)
-
----
-
-## 🌐 Live Demo
-
-(Add your deployed project link here if available)
-
----
 
 ## 📌 Future Enhancements
 
